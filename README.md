@@ -24,7 +24,7 @@
 
 1.  **저장소 복제:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/My-MSA-Project/eureka-server.git
     cd eureka-server
     ```
 
