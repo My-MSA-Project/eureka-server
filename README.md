@@ -1,4 +1,4 @@
-# 🏰 Eureka Server for Reservation Service
+# 🏰 Spring Cloud Eureka Server 
 
 본 프로젝트는 Spring Cloud Netflix Eureka를 사용한 **Discovery Server**입니다. 예약 시스템 내의 모든 마이크로서비스를 위한 중앙 레지스트리 역할을 하며, 호스트 이름과 포트를 하드코딩하지 않고도 서비스들이 서로를 찾고 통신할 수 있도록 지원합니다.
 
